@@ -4,6 +4,7 @@
 *.class
 *.iml
 *.properties
+*.info
 /out/
 
 # Package Files #
