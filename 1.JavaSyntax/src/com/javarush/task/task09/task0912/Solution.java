@@ -13,7 +13,7 @@ public class Solution {
         }
 
         catch (NumberFormatException e) {
-            System.out.println(e.getClass());
+            System.out.println(e);
         }
         //напишите тут ваш код
     }
