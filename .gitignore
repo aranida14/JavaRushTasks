@@ -1,10 +1,7 @@
 .idea/
-*.jrtc
-*.png
 *.class
 *.iml
 *.properties
-*.info
 /out/
 
 # Package Files #
