@@ -3,6 +3,8 @@
 *.iml
 *.properties
 /out/
+*.info
+*.png
 
 # Package Files #
 *.jar
