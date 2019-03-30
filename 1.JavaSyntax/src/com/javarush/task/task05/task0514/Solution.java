@@ -7,9 +7,20 @@ package com.javarush.task.task05.task0514;
 public class Solution {
     public static void main(String[] args) {
         //напишите тут ваш код
+        Person person = new Person();
+        person.initialize("Ivan", 30);
+
+//        System.out.println(person);
     }
 
     static class Person {
         //напишите тут ваш код
+        String name;
+        int age;
+
+        public void initialize(String name, int age) {
+            this.name = name;
+            this.age = age;
+        }
     }
 }
